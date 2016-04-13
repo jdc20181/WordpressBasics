@@ -1,1 +1,24 @@
 
+#wrapper {
+   max-width: 1200px;
+   width: 95%;
+   margin: 0 auto;
+}
+
+#header, #main, #footer {
+   width: 100%;
+}
+
+#content {
+   width: 65%;
+   float: left;
+}
+
+#sidebar {
+   width: 35%;
+   float: left;
+}
+
+#footer {
+   clear: both;
+}
